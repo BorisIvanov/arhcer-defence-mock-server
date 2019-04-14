@@ -1,0 +1,14 @@
+[
+  {
+    "SecondsFromLast": 3,
+    "ClassName": "BP_InfantryPawn"
+  },
+  {
+    "SecondsFromLast": 5,
+    "ClassName": "BP_InfantryPawn"
+  },
+  {
+    "SecondsFromLast": 8,
+    "ClassName": "BP_InfantryPawn"
+  }
+]
